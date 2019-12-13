@@ -24,7 +24,6 @@ public class Esercitazione {
 		coda.inserisci(Enzo);
 		
 		coda.stampa();
-		coda.stampa();
 		
 	}
 
